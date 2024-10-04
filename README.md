@@ -4,11 +4,11 @@
 This repository contains an analysis of electric vehicle (EV) market growth. The primary goal of this analysis is to forecast the potential future growth of EV adoption based on historical data and provide insights into the factors driving this trend.
 
 ## Key Librairies 
-Pandas - For data cleaning, manipulation, and analysis.
-Matplotlib - For plotting and creating visualizations.
-Seaborn - For visualization and styling of plots.
-Numpy - For numerical operations and data handling.
-SciPy - For trends forecasting using optimization and curve fitting.
+- Pandas - For data cleaning, manipulation, and analysis.
+- Matplotlib - For plotting and creating visualizations.
+- Seaborn - For visualization and styling of plots.
+- Numpy - For numerical operations and data handling.
+- SciPy - For trends forecasting using optimization and curve fitting.
 
 ## Methodology
 **Data Cleaning**: The datasets underwent thorough preprocessing, including handling missing values and transforming variables.
